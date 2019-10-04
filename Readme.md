@@ -15,13 +15,13 @@ uploading data into a NI-database, and functions for visualizing indices
 Install by:
 
 ``` r
-devtools::install_github("NINAnor/NIcalc", build_vignettes = T)
+devtools::install_github("NINAnor/NIcalcExtra", build_vignettes = T)
 ```
 
 For an introduction, take a look at the vignettes in the help section:
 
 ``` r
-help(package = "NIcalc")
+help(package = "NIcalcExtra")
 ```
 
 Questions can be sent to jens.astrom\[at\]nina.no.

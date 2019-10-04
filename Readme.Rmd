@@ -22,13 +22,13 @@ This is an R-package for working with the Nature index for Norway. It includes f
 
 Install by:
 ```{r, eval = F}
-devtools::install_github("NINAnor/NIcalc", build_vignettes = T)
+devtools::install_github("NINAnor/NIcalcExtra", build_vignettes = T)
 ```
 
 For an introduction, take a look at the vignettes in the help section:
 
 ```{r, eval = F}
-help(package = "NIcalc")
+help(package = "NIcalcExtra")
 ```
 
 
